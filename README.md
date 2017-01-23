@@ -20,6 +20,7 @@
 - [CppCon 2016: John Lakos “Advanced Levelization Techniques (part 2 of 3)"](https://youtu.be/fzFOLsFASjU)
 - [CppCon 2016: John Lakos “Advanced Levelization Techniques (part 3 of 3)"](https://youtu.be/NrARQ7rHV-c)
 - [CppCon 2016: Casey Carter “Iterator Haiku"](https://youtu.be/rZs9ndzGB_8)
+- [CppCon 2015: Andrei Alexandrescu “Declarative Control Flow"](https://youtu.be/WjTrfoiB0MQ)
 
 ## Motivational
 
